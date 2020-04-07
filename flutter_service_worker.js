@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/images/png/lit_Life_Software_Wordmark-01.png": "89d63cfbf7c5997138c036682dceb3ab",
 "assets/FontManifest.json": "f17d8d24eaca794232120f989fd1bfc8",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "893e670d6594fb592aa71205a86dd814",
+"assets/LICENSE": "7822dd7e8ab8808ead78b1c55bb0cc59",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
@@ -27,7 +27,7 @@ const RESOURCES = {
 "favicon.ico": "862d5f6072bb6f0c8b3837080e1ad7bd",
 "index.html": "234243ddd030e67cc42c2e853272b4bf",
 "/": "234243ddd030e67cc42c2e853272b4bf",
-"main.dart.js": "74cc85845c10a400d0eb2f8078853438"
+"main.dart.js": "37681b940fa58c1bce59c76ba4dd6606"
 };
 
 self.addEventListener('activate', function (event) {
