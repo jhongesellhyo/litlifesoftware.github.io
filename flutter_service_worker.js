@@ -27,7 +27,7 @@ const RESOURCES = {
 "favicon.ico": "862d5f6072bb6f0c8b3837080e1ad7bd",
 "index.html": "234243ddd030e67cc42c2e853272b4bf",
 "/": "234243ddd030e67cc42c2e853272b4bf",
-"main.dart.js": "37681b940fa58c1bce59c76ba4dd6606"
+"main.dart.js": "03f7abf21c86eae4953b4ec51aded588"
 };
 
 self.addEventListener('activate', function (event) {

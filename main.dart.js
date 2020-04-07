@@ -39995,7 +39995,7 @@ $R:0,
 $S:1}
 U.tE.prototype={
 F:function(a){var t,s,r,q,p,o,n,m,l,k,j=this,i=null,h=j.r
-switch(h){case C.ah:t=200
+switch(h){case C.ah:t=170
 s=50
 r=22
 q=16
@@ -40009,7 +40009,7 @@ q=24
 p=64
 o=8
 break
-default:t=200
+default:t=300
 s=90
 r=32
 q=24
@@ -40038,8 +40038,8 @@ q=8
 p=8
 o=8
 break
-default:t=32
-s=32
+default:t=64
+s=64
 r=32
 q=16
 p=16
