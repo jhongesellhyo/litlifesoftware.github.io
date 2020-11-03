@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7efd9ee.chunk.css",
+    "main.js": "/static/js/main.c9e9bec4.chunk.js",
+    "main.js.map": "/static/js/main.c9e9bec4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.084a8dea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.084a8dea.js.map",
+    "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
+    "static/js/2.b47be59a.chunk.js": "/static/js/2.b47be59a.chunk.js",
+    "static/js/2.b47be59a.chunk.js.map": "/static/js/2.b47be59a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5600913fc09f68039ed5ccccdc7f790e.js": "/precache-manifest.5600913fc09f68039ed5ccccdc7f790e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.f7efd9ee.chunk.css.map": "/static/css/main.f7efd9ee.chunk.css.map",
+    "static/js/2.b47be59a.chunk.js.LICENSE.txt": "/static/js/2.b47be59a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/Montserrat-Thin.b50f5872.ttf",
+    "static/media/Remaining_Lifetime_Promo_Poster-01.png": "/static/media/Remaining_Lifetime_Promo_Poster-01.b4d0b8fc.png",
+    "static/media/Remaining_Lifetime_Smartphone_Mockup_Screenshot_Clean-01.png": "/static/media/Remaining_Lifetime_Smartphone_Mockup_Screenshot_Clean-01.74c26c2d.png",
+    "static/media/irid-film-club-logo-grey-background-1-918x918.png": "/static/media/irid-film-club-logo-grey-background-1-918x918.7fd7f222.png",
+    "static/media/irid-film-club-mockup-poster-2-1080x1080.png": "/static/media/irid-film-club-mockup-poster-2-1080x1080.0913769d.png",
+    "static/media/lit-life-logo-gradient-background-soft-brush-widescreen-2-1920x1080.png": "/static/media/lit-life-logo-gradient-background-soft-brush-widescreen-2-1920x1080.d0cde9c9.png",
+    "static/media/lit_life_roadmap_history_of_me-01.png": "/static/media/lit_life_roadmap_history_of_me-01.106f8819.png",
+    "static/media/placeholder-image-1-904x904.png": "/static/media/placeholder-image-1-904x904.06df8e13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.084a8dea.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.b47be59a.chunk.js",
+    "static/css/main.f7efd9ee.chunk.css",
+    "static/js/main.c9e9bec4.chunk.js"
+  ]
+}
