@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7efd9ee.chunk.css",
-    "main.js": "/static/js/main.c9e9bec4.chunk.js",
-    "main.js.map": "/static/js/main.c9e9bec4.chunk.js.map",
+    "main.css": "/static/css/main.dfe84dee.chunk.css",
+    "main.js": "/static/js/main.d4952fda.chunk.js",
+    "main.js.map": "/static/js/main.d4952fda.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.084a8dea.js",
     "runtime-main.js.map": "/static/js/runtime-main.084a8dea.js.map",
     "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
-    "static/js/2.b47be59a.chunk.js": "/static/js/2.b47be59a.chunk.js",
-    "static/js/2.b47be59a.chunk.js.map": "/static/js/2.b47be59a.chunk.js.map",
+    "static/js/2.a7690d57.chunk.js": "/static/js/2.a7690d57.chunk.js",
+    "static/js/2.a7690d57.chunk.js.map": "/static/js/2.a7690d57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5600913fc09f68039ed5ccccdc7f790e.js": "/precache-manifest.5600913fc09f68039ed5ccccdc7f790e.js",
+    "precache-manifest.f6a439aa88580011f7cab573933b3e4a.js": "/precache-manifest.f6a439aa88580011f7cab573933b3e4a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.f7efd9ee.chunk.css.map": "/static/css/main.f7efd9ee.chunk.css.map",
-    "static/js/2.b47be59a.chunk.js.LICENSE.txt": "/static/js/2.b47be59a.chunk.js.LICENSE.txt",
+    "static/css/main.dfe84dee.chunk.css.map": "/static/css/main.dfe84dee.chunk.css.map",
+    "static/js/2.a7690d57.chunk.js.LICENSE.txt": "/static/js/2.a7690d57.chunk.js.LICENSE.txt",
+    "static/media/Lit_UI_Kit_Logo_512px-01.png": "/static/media/Lit_UI_Kit_Logo_512px-01.19210fe1.png",
     "static/media/main.css": "/static/media/Montserrat-Thin.b50f5872.ttf",
     "static/media/Remaining_Lifetime_Promo_Poster-01.png": "/static/media/Remaining_Lifetime_Promo_Poster-01.b4d0b8fc.png",
     "static/media/Remaining_Lifetime_Smartphone_Mockup_Screenshot_Clean-01.png": "/static/media/Remaining_Lifetime_Smartphone_Mockup_Screenshot_Clean-01.74c26c2d.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.084a8dea.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.b47be59a.chunk.js",
-    "static/css/main.f7efd9ee.chunk.css",
-    "static/js/main.c9e9bec4.chunk.js"
+    "static/js/2.a7690d57.chunk.js",
+    "static/css/main.dfe84dee.chunk.css",
+    "static/js/main.d4952fda.chunk.js"
   ]
 }
